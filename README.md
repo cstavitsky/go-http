@@ -4,6 +4,7 @@
 
 - Download and install Go to build and run this project, for more infomration checkout: [Getting Started](https://golang.org/doc/install)
 - There is **no need to define any Go environment variables** as the project uses [Go Modules](https://github.com/golang/go/wiki/Modules) for packaging
+- If `sentry-cli` is not installed, [install it](https://docs.sentry.io/product/cli/installation/) and [configure authentication](https://docs.sentry.io/product/cli/configuration/).
 
 ## Setup & Build
 
